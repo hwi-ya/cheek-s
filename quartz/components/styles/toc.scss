@@ -65,6 +65,17 @@ button.toc-header {
     }
   }
 
+  .toc-content li {
+  border-bottom: 1px solid var(--lightgray); /* 구분선 추가 */
+  padding-bottom: 5px; /* 아래쪽 여백 */
+  margin-bottom: 5px; /* 다음 항목과의 간격 */
+  }
+  
+  /* 마지막 항목에는 구분선 제거 */
+  .toc-content li:last-child {
+    border-bottom: none;
+  }
+
   @for $i from 0 through 6 {
     & .depth-#{$i} {
       padding-left: calc(1rem * #{$i});
