@@ -5,6 +5,7 @@ dg-home: true
 dg-publish: true
 title: Home
 permalink: /
+comments: True
 ---
 
 # 저는 공부가 싫어요!
