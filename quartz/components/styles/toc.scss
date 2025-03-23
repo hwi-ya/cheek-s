@@ -47,8 +47,27 @@ button.toc-header {
 
 .toc-content {
   list-style: none;
+  overflow: hidden;
+  overflow-y: auto;
+  max-height: 100%;
+  transition:
+    max-height 0.35s ease,
+    visibility 0s linear 0s;
   position: relative;
+  visibility: visible;
 
+  &.collapsed {
+    max-height: 0;
+    transition:
+      max-height 0.35s ease,
+      visibility 0s linear 0.35s;
+    visibility: hidden;
+  }
+
+  &.collapsed > .overflow::after {
+    opacity: 0;
+  }
+  
   & ul {
     list-style: none;
     margin: 0.5rem 0;
@@ -64,8 +83,18 @@ button.toc-header {
       }
     }
   }
+  > ul.overflow {
+    max-height: none;
+  }
 
-  .toc-content li {
+  @for $i from 0 through 6 {
+    & .depth-#{$i} {
+      padding-left: calc(1rem * #{$i});
+    }
+  }
+}
+
+.toc-content li {
   border-bottom: 1px solid var(--lightgray); /* 구분선 추가 */
   padding-bottom: 5px; /* 아래쪽 여백 */
   margin-bottom: 5px; /* 다음 항목과의 간격 */
@@ -75,10 +104,3 @@ button.toc-header {
   .toc-content li:last-child {
     border-bottom: none;
   }
-
-  @for $i from 0 through 6 {
-    & .depth-#{$i} {
-      padding-left: calc(1rem * #{$i});
-    }
-  }
-}
