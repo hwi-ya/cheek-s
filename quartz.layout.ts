@@ -12,7 +12,7 @@ export const sharedPageComponents: SharedLayout = {
         repo: 'https://cheek-s.pages.dev/',
         repoId: 'R_kgDOONPdFw',
         category: 'General',
-        categoryId: 'DIC_kwDOOJ2iWc4CoId_',
+        categoryId: 'DIC_kwDOONPdF84CoYAY',
         mapping: 'pathname',
       }
     }),
