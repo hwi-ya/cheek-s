@@ -277,9 +277,9 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
 .content a {
   font-size: 0.8rem; // 기존보다 글씨 크기 작게
   max-width: 140px; // 최대 너비 제한
-  white-space: normal; // 자동 줄바꿈 허용
-  word-wrap: break-word; // 긴 단어도 줄바꿈
-  overflow-wrap: break-word; // 줄바꿈 강제 적용
+  // white-space: normal; // 자동 줄바꿈 허용
+  // word-wrap: break-word; // 긴 단어도 줄바꿈
+  // overflow-wrap: break-word; // 줄바꿈 강제 적용
 }
 
 .no-scroll {
