@@ -9,7 +9,7 @@ export const sharedPageComponents: SharedLayout = {
     Component.Comments({
       provider: 'giscus',
       options: {
-        repo: 'https://cheek-s.pages.dev/',
+        repo: 'hwi-ya/cheek-s',
         repoId: 'R_kgDOONPdFw',
         category: 'Announcements',
         categoryId: 'DIC_kwDOONPdF84CoYAX',
