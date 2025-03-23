@@ -14,6 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: {
       provider: "google",
+      tagId: "G-4TXZEDB32L",
     },
     locale: "ko-KR",
     baseUrl: "cheek-s.pages.dev",
