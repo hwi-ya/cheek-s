@@ -11,8 +11,8 @@ export const sharedPageComponents: SharedLayout = {
       options: {
         repo: 'https://cheek-s.pages.dev/',
         repoId: 'R_kgDOONPdFw',
-        category: 'General',
-        categoryId: 'DIC_kwDOONPdF84CoYAY',
+        category: 'Announcements',
+        categoryId: 'DIC_kwDOONPdF84CoYAX',
         mapping: 'pathname',
       }
     }),
