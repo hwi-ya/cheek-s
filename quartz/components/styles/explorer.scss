@@ -154,6 +154,10 @@ button.desktop-explorer {
   display: flex;
   align-items: center;
   user-select: none;
+  margin-top: 0.25rem; // 폴더 간 간격 추가
+  margin-bottom: 0.25rem; // 폴더 간 간격 추가
+  padding-bottom: 10px;
+  border-bottom: 0.5px solid var(--lightgray);
 
   & div > a {
     color: var(--secondary);
