@@ -212,6 +212,10 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
   color: var(--tertiary);
 }
 
+.no-background::after {
+  background: none !important;
+}
+
 .explorer {
   @media all and ($mobile) {
     &.collapsed {
