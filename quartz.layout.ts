@@ -16,7 +16,7 @@ export const sharedPageComponents: SharedLayout = {
         mapping: 'pathname',
         themeUrl: "https://example.com/static/giscus", // corresponds to quartz/static/giscus/
         lightTheme: "dark-theme", // corresponds to light-theme.css in quartz/static/giscus/
-        darkTheme: "dark-theme", // corresponds to dark-theme.css quartz/static/giscus/
+        darkTheme: "light-theme", // corresponds to dark-theme.css quartz/static/giscus/
       }
     }),
   ],
