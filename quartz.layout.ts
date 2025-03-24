@@ -15,8 +15,8 @@ export const sharedPageComponents: SharedLayout = {
         categoryId: 'DIC_kwDOONPdF84CoYAX',
         mapping: 'pathname',
         themeUrl: "https://example.com/static/giscus", // corresponds to quartz/static/giscus/
-        lightTheme: "dark-theme", // corresponds to light-theme.css in quartz/static/giscus/
-        darkTheme: "light-theme", // corresponds to dark-theme.css quartz/static/giscus/
+        lightTheme: light.css, // corresponds to light-theme.css in quartz/static/giscus/
+        darkTheme: dark.css, // corresponds to dark-theme.css quartz/static/giscus/
       }
     }),
   ],
