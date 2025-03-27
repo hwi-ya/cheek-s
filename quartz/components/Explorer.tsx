@@ -14,7 +14,7 @@ type OrderEntries = "sort" | "filter" | "map"
 export interface Options {
   title?: string
   folderDefaultState: "collapsed" | "open"
-  folderClickBehavior: "collapse" | "open"
+  folderClickBehavior: "collapse" | "open" // open이 아닌 link가 들어갈 시 폴더이름 누를시 해당 폴더 페이지로 이동함
   useSavedState: true
   sortFn: (a: FileTrieNode, b: FileTrieNode) => number
   filterFn: (node: FileTrieNode) => boolean
