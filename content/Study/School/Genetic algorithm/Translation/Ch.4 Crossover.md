@@ -5,16 +5,16 @@ dg-publish: true
 ---
 
 ## p.1(Crossover)
-  **Crossover is the process of forming new individuals from existing individuals while maintaining traits.**
+  **Crossover is the process of forming new individuals from existing individuals while maintaining traits.**<br>
   교차는 기존 개체들로부터 특성을 유지하면서 새로운 개체를 형성하는 과정이다.<br/>
   
-  **The main purpose of crossing is the exchange of experience.**
+  **The main purpose of crossing is the exchange of experience.**<br>
   교차의 주요 목적은 경험을 교환하는 것이다.<br/>
   
-  **This approach greatly speeds up finding an acceptable solution.**
+  **This approach greatly speeds up finding an acceptable solution.**<br>
   이 접근법은 수용 가능한 해를 찾는 속도를 크게 향상시킨다.<br/>
   
-  **Crossover is the next logical action that occurs after selection.**
+  **Crossover is the next logical action that occurs after selection.**<br>
   교차는 선택 후에 발생하는 다음 논리적인 행동이다.<br/>
 <br/>
   ***
