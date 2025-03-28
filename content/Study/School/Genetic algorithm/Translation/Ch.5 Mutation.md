@@ -2,7 +2,7 @@
 created: 2025-03-18
 updated: 2025-03-21
 dg-publish: true
-craft:true
+craft: true
 ---
 
 ## p.1(Mutation)
