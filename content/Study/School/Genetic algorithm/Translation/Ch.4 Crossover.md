@@ -52,9 +52,7 @@ dg-publish: true
 
   ![image](https://github.com/user-attachments/assets/a2bd0f46-aefc-41cf-bc11-4540802a8d29)
 <br/>
-  ***
-
-## p.4(One-point crossover)
+  
   **One-point crossover can be applied to ordered gene and binary bin sets.**
   일점 교차는 순서가 있는 유전자와 이진 집합에 적용될 수 있다.<br/>
   
@@ -63,9 +61,7 @@ dg-publish: true
 
   ![image](https://github.com/user-attachments/assets/83248f79-5974-49a4-8e79-8cec75785b5e)
 <br/>
-  ***
-
-## p.5(One-point crossover)
+ 
   **If the gene sequence consists of two elements, then the genes are exchanged in a crisscross way**
   유전자 서열이 두 개의 요소로 구성되어 있으면, 유전자는 교차 방식으로 교환된다.<br/>
 
@@ -162,9 +158,7 @@ dg-publish: true
 
   ![image](https://github.com/user-attachments/assets/2d032051-9ddf-4ce5-90e4-f4e84b71f745)
 <br/>
-  ***
-
-## p.21(Fitness driven crossover)
+  
   **NOTE: You can notice that fitness driven crossover shares the same principle as elite selection which we covered in Chapter 3:**
   참고: 적합도 기반 교차는 우리가 3장에서 다룬 엘리트 선택과 동일한 원리를 공유한다는 것을 알 수 있다.<br/>
   
