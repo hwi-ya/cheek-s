@@ -29,7 +29,7 @@ craft:true
 <br/>
   ***
 
-## p.3(Mutation)
+## p.3(Mutation method)
   **Random deviation mutation**
   무작위 편차 돌연변이<br/>
   
