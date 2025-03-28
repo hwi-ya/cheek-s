@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/4bb35cc7-29d9-456b-8ed2-2beb505a939e)---
 created: 2025-03-28
 updated: 2025-03-28
 dg-publish: true
@@ -136,10 +136,10 @@ dg-publish: true
     - **Parent 1: (1, 7, 4, 5, 9, 2, 8, 3, 6)**<br>
     - **Parent 2: (3, 1, 5, 4, 9, 8, 6, 2, 7)**
   <br/>
-  ![image](https://github.com/user-attachments/assets/731e15fc-d360-4818-862f-9db9c65f64b0)
-  ![image](https://github.com/user-attachments/assets/da6d1afe-68d0-40d1-9f6a-7684347a195c)
-  ![image](https://github.com/user-attachments/assets/80348f57-1c8f-490f-8f69-157a6cd2925b)
-  ![image](https://github.com/user-attachments/assets/af3bf96c-91b9-42e6-bc8d-6cae1a80a3a5)
+  ![image](https://github.com/user-attachments/assets/b20edc77-d53f-4146-8f72-1cbeec8f3850)
+  ![image](https://github.com/user-attachments/assets/91948925-315e-4eab-bb58-7be98a8778a2)
+  ![image](https://github.com/user-attachments/assets/f5e4816a-7d81-48bf-8963-b3ad1bdf1740)
+  ![image](https://github.com/user-attachments/assets/f2527f5b-a172-497b-83fb-fc4177e4e096)
 <br/>
   ***
 
