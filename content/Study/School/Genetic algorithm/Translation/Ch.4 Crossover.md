@@ -118,7 +118,7 @@ dg-publish: true
   - **$[x1 - α(x2 - x1), x2 + α(x2 - x1)]$, where $α$ is the parameter that expands the parent genes range**<br>
     $[x1−α(x2−x1),x2+α(x2−x1)]$, 여기서 $α$는 부모 유전자의 범위를 확장하는 파라미터이다.<br/>
 
-  ![image](https://github.com/user-attachments/assets/0980b28e-b3a1-40a8-8958-7285a5449081)
+  ![image](https://github.com/user-attachments/assets/0980b28e-b3a1-40a8-8958-7285a5449081) <br>
   ![image](https://github.com/user-attachments/assets/ba18a657-c6f2-4445-a9f6-e9c2b36eccb7)
 <br/>
   ***
@@ -136,9 +136,9 @@ dg-publish: true
     - **Parent 1: (1, 7, 4, 5, 9, 2, 8, 3, 6)**<br>
     - **Parent 2: (3, 1, 5, 4, 9, 8, 6, 2, 7)**
   <br/>
-  ![image](https://github.com/user-attachments/assets/b20edc77-d53f-4146-8f72-1cbeec8f3850)
-  ![image](https://github.com/user-attachments/assets/91948925-315e-4eab-bb58-7be98a8778a2)
-  ![image](https://github.com/user-attachments/assets/f5e4816a-7d81-48bf-8963-b3ad1bdf1740)
+  ![image](https://github.com/user-attachments/assets/b20edc77-d53f-4146-8f72-1cbeec8f3850) <br>
+  ![image](https://github.com/user-attachments/assets/91948925-315e-4eab-bb58-7be98a8778a2) <br>
+  ![image](https://github.com/user-attachments/assets/f5e4816a-7d81-48bf-8963-b3ad1bdf1740) <br>
   ![image](https://github.com/user-attachments/assets/f2527f5b-a172-497b-83fb-fc4177e4e096)
 <br/>
   ***
