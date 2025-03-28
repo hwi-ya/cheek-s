@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4bb35cc7-29d9-456b-8ed2-2beb505a939e)---
+---
 created: 2025-03-28
 updated: 2025-03-28
 dg-publish: true
