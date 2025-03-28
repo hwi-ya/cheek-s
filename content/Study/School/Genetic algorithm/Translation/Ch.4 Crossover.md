@@ -136,10 +136,13 @@ dg-publish: true
     - **Parent 1: (1, 7, 4, 5, 9, 2, 8, 3, 6)**<br>
     - **Parent 2: (3, 1, 5, 4, 9, 8, 6, 2, 7)**
   <br/>
-  ![image](https://github.com/user-attachments/assets/b20edc77-d53f-4146-8f72-1cbeec8f3850) 
+  
+  ![image](https://github.com/user-attachments/assets/b20edc77-d53f-4146-8f72-1cbeec8f3850)
+
   ![image](https://github.com/user-attachments/assets/91948925-315e-4eab-bb58-7be98a8778a2)
 
   ![image](https://github.com/user-attachments/assets/f5e4816a-7d81-48bf-8963-b3ad1bdf1740) 
+  
   ![image](https://github.com/user-attachments/assets/f2527f5b-a172-497b-83fb-fc4177e4e096)
 <br/>
   ***
