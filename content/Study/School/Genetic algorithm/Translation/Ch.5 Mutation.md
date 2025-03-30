@@ -103,8 +103,8 @@ draft: true
     - **For example, in list [1,2,3,4,5], we can pick gene 3 and put it to position with index 0 and get the result [3,2,4,5,1].**  
       예를 들어, 리스트 [1,2,3,4,5]에서 유전자 3을 선택하여 인덱스 0의 위치로 이동시키면 결과는 [3,2,4,5,1]이 된다.<br/>
   ***
-   **Summary**
-   ![image](https://github.com/user-attachments/assets/960fef95-a7dc-4a91-b6c2-169306677e71)  
+   **Summary**  
+   <img src="https://github.com/user-attachments/assets/960fef95-a7dc-4a91-b6c2-169306677e71" width="690" height="360"/>
 <br/>
   <hr>
 
