@@ -53,7 +53,7 @@ dg-publish: true
   **One of the individuals finds the river, and the entire population strives for it, but the river also has a lot of different places to stay in terms of suitability, and our population already continues to search in the vicinity of the river**  
   개체 중 한 명이 강을 발견하면, 전체 집단이 그곳을 향해 나아가게 되지만, 강 주변에도 적합성 면에서 머물 수 있는 다양한 장소가 있으며, 우리의 집단은 이미 강 주변에서 계속 탐색을 이어가게 된다.<br/>
 
-  <img src="https://github.com/user-attachments/assets/a76b161c-8c6d-4fcf-9b1e-2f9234229eb9" width="500" height="337"/>
+  <img src="https://github.com/user-attachments/assets/a76b161c-8c6d-4fcf-9b1e-2f9234229eb9" width="400" height="270"/>
   <br/>
   
   - **one of the individuals notifies other about the place with high fitness value**  
@@ -71,7 +71,7 @@ dg-publish: true
   **The redder the area, the better the place for the population**  
   영역이 붉을수록 집단에게 더 좋은 장소를 의미한다.<br/>
   
-  <img src="https://github.com/user-attachments/assets/dfa53d40-d1e4-4c1e-b109-761897442452" width="500" height="414"/>
+  <img src="https://github.com/user-attachments/assets/dfa53d40-d1e4-4c1e-b109-761897442452" width="400" height="332"/>
   <br/>
   
   - **two variable function heat map. red areas are most appropriate places for the population.**  
@@ -80,10 +80,9 @@ dg-publish: true
   **Let’s study how population migrates in search of the best place**  
   집단이 최적의 장소를 찾기 위해 어떻게 이동하는지 살펴보자.<br/>
 
-  <img src="https://github.com/user-attachments/assets/eab9bdb9-f340-4648-96f7-acd4feb90189" width="500" height="456"/>
-  <img src="https://github.com/user-attachments/assets/49789a58-6a04-4396-b481-73f32b3baa56" width="500" height="458"/>
-  <img src="https://github.com/user-attachments/assets/bfdafcf7-5ed1-49e4-a583-b25bba582ffe" width="500" height="461"/>
-  <br/>
+  <img src="https://github.com/user-attachments/assets/eab9bdb9-f340-4648-96f7-acd4feb90189" width="400" height="365"/> <br/>
+  <img src="https://github.com/user-attachments/assets/49789a58-6a04-4396-b481-73f32b3baa56" width="400" height="367"/> <br/>
+  <img src="https://github.com/user-attachments/assets/bfdafcf7-5ed1-49e4-a583-b25bba582ffe" width="400" height="369"/> <br/>  
 
   **the whole population is concentrated in one area**  
   전체 집단이 한 영역에 집중되어 있다.<br/>
