@@ -90,7 +90,7 @@ dg-publish: true
   **This area is good, but far from the best**  
   이 영역은 괜찮지만, 최적의 장소와는 거리가 있다.<br/>
 
-  <img src="https://github.com/user-attachments/assets/608cbcaf-137a-4f8e-9d8f-289c1c39e7f1" width="750" height="332"/>
+  <img src="https://github.com/user-attachments/assets/608cbcaf-137a-4f8e-9d8f-289c1c39e7f1" width="800" height="354"/>
 
 
 
