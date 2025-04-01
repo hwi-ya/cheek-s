@@ -202,7 +202,7 @@ dg-publish: true
   이제 교차 확률의 다양한 값에 따라 함수 $f(x,y)$의 최댓값을 찾기 위한 진화의 변화를 살펴보자.<br/>
 
   <img src="https://github.com/user-attachments/assets/7ff17da9-4267-4cb0-af9a-12b213f3bf86" width="400" height="327"/> <br/>
-  - **Two variable function heat map. Red areas are the most appropriate places for the population**
+  - **Two variable function heat map. Red areas are the most appropriate places for the population**  
     두 변수 함수의 히트맵. 빨간 영역은 집단에게 가장 적합한 장소들이다.<br/>
 
   **Let’s look at the evolution of population with crossover probability equal to 0 (no crossover);**  
