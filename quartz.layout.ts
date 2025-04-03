@@ -57,7 +57,10 @@ export const defaultContentPageLayout: PageLayout = {
     // Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
-    Component.RecentNotes({ limit: 5, showTags: false, showDate: false }),
+    Component.RecentNotes({ limit: 5,
+                           showTags: false,
+                           showDate: false,
+                           filter: (f) => f.slug && !f.slug.endsWith("index")}),
   ],
 }
 
