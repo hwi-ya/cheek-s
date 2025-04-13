@@ -1,8 +1,7 @@
 ---
 created: 2025-03-30
-updated: 2025-04-08
+updated: 2025-04-13
 dg-publish: true
-draft: true
 ---
 
 ## p.1(Effectiveness)
