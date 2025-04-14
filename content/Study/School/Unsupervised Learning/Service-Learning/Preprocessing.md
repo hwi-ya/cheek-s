@@ -2,7 +2,6 @@
 created: 2025-04-14
 updated: 2025-04-14
 dg-publish: true
-draft: true
 ---
 
 - ## One-point
