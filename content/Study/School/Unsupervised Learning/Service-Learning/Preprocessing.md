@@ -4,7 +4,7 @@ updated: 2025-04-14
 dg-publish: true
 ---
 
-- ## One-point
+- ## Preprocessing
     
     ```python
     import os
