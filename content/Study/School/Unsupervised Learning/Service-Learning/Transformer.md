@@ -4,7 +4,7 @@ updated: 2025-04-17
 dg-publish: true
 ---
 
-- ## Transformer
+- ## Transformer?
   - **Transformer?**  
       - 시퀀스 데이터를 처리하기 위한 딥러닝 모델 아키텍처  
       - 2017년 **"Attention is All You Need"** 라는 논문에서 처음 소개됨<br/>
@@ -25,7 +25,7 @@ dg-publish: true
 <br/>
 <hr>
 
-- ## Self-Attention
+- ## Self-Attention?
   - **Self-Attention?**  
       - 자신이 시퀀스의 다른 모든 요소들과 **얼마나 관련이 있는지** 를 계산해서 그에 따라 정보를 가중합하여 표현을 갱신하는 방식<br/>
 <br/>
