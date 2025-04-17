@@ -11,12 +11,12 @@ dg-publish: true
   <br/>
 
   - **공부하기 전 알아야 할 내용**     
-      | What?                    | Why?                                                                 |
-      |--------------------------|----------------------------------------------------------------------|
-      | **Self-Attention**       | - 쉽게말하면 Transformer는 Self-Attention의 집합체이기 때문            |
-      | Deep Learning            | - MLP, Loss, Optimizer 등의 기본구조는 알고 가는게 좋음                |
-      | Linear Algebra           | - Transformer, Self-Attention은 모든 연산이 행렬 기반이기 때문에       |
-      | Probability & Statistics | - Self-Attention에서 Attention Score를 확률로 바꿀 때 사용하기 위해    |
+      | What?                    |   Why?                                                             |
+      |--------------------------|--------------------------------------------------------------------|
+      | **Self-Attention**       | 쉽게말하면 Transformer는 Self-Attention의 집합체이기 때문            |
+      | Deep Learning            | MLP, Loss, Optimizer 등의 기본구조는 알고 가는게 좋음                |
+      | Linear Algebra           | Transformer, Self-Attention은 모든 연산이 행렬 기반이기 때문에       |
+      | Probability & Statistics | Self-Attention에서 Attention Score를 확률로 바꿀 때 사용하기 위해    |
 <br/>
 <br/>
 
