@@ -19,6 +19,8 @@ dg-publish: true
 
   - 공부하는 이유
       저도 몰라요 하기 싫어요
+<br/>
+<hr>
 
 - ## Self-Attention
   - Self-Attention?  
