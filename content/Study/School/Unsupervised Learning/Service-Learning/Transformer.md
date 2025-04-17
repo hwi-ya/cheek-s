@@ -7,7 +7,8 @@ dg-publish: true
 - ## Transformer
   - Transformer?  
       시퀀스 데이터를 처리하기 위한 딥러닝 모델 아키텍처  
-      2017년 **"Attention is All You Need"** 라는 논문에서 처음 소개됨
+      2017년 **"Attention is All You Need"** 라는 논문에서 처음 소개됨<br/>
+  <br/>
 
   - 공부하기 전 알아야 할 내용     
       | What?                    | Why?                                                                 |
@@ -16,9 +17,11 @@ dg-publish: true
       | Deep Learning            | - MLP, Loss, Optimizer 등의 기본구조는 알고 가는게 좋음                |
       | Linear Algebra           | - Transformer, Self-Attention은 모든 연산이 행렬 기반이기 때문에       |
       | Probability & Statistics | - Self-Attention에서 Attention Score를 확률로 바꿀 때 사용하기 위해    |
+<br/>
+<br/>
 
   - 공부하는 이유
-      저도 몰라요 하기 싫어요
+      저도 몰라요 하기 싫어요 응!애!
 <br/>
 <hr>
 
