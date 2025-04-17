@@ -6,8 +6,8 @@ dg-publish: true
 
 - ## Transformer
   - **Transformer?**  
-      시퀀스 데이터를 처리하기 위한 딥러닝 모델 아키텍처  
-      2017년 **"Attention is All You Need"** 라는 논문에서 처음 소개됨<br/>
+      - 시퀀스 데이터를 처리하기 위한 딥러닝 모델 아키텍처  
+      - 2017년 **"Attention is All You Need"** 라는 논문에서 처음 소개됨<br/>
   <br/>
 
   - **공부하기 전 알아야 할 내용**     
