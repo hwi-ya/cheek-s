@@ -4,7 +4,7 @@ updated: 2025-04-20
 dg-publish: true
 ---
 
-- ## basic grammar
+- ## BASIC
     - user DB명 : 해당 DB의 데이터를 조회 하겠다. - 모든 쿼리는 해당 DB에서 실행해라  
     - create table 테이블명 (조건) : 조건대로 테이블을 생성하겠다다
 
