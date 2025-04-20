@@ -1,6 +1,6 @@
 ---
 created: 2025-04-17
-updated: 2025-04-17
+updated: 2025-04-20
 dg-publish: true
 ---
 
@@ -56,10 +56,7 @@ dg-publish: true
       - **6. 가중합 해서 나온 결과 벡터를 출력한다**  
          - 이 가중합 결과가 Self-Attention의 출력이며, 다음 레이어로 넘어가거나 최종 결과로 사용된다
          - Transformer에서는 새로운 Self-Attention으로 넘어가 새로운 결과벡터를 만들어낸다.<br/>
-  
-- ## Program code
-  - 1, 2 : Unsupervised Learning, 3 : Supervised Learning
-  - 현재 코드는 전반적으로 개 망했다고 봐도 무방하다         - 입력데이터(문장, 이미지등) 임베딩하거나 패치로 나눠 벡터 형태의 시퀀스 데이터로 변환
+         - 입력데이터(문장, 이미지등) 임베딩하거나 패치로 나눠 벡터 형태의 시퀀스 데이터로 변환
         <br/>
         <br/>
       - **2. 각 레이어에 가중치 행렬을 곱해 Query, Key, Value값을 만든다**  
