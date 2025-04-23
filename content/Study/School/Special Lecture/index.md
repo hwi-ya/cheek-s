@@ -2,7 +2,7 @@
 created: 2025-04-22
 dg-home: true
 dg-publish: true
-title: Deep Learning
+title: Special Lecture
 permalink: /
 ---
 
